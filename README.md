@@ -5,7 +5,7 @@
 <p align="center">
   Social network :<br>
   <a href="SOON">Youtube</a> |
-  <a href="SOON">Discord</a> |
+  <a href="https://discord.gg/tbWkMQHaJs">Discord</a> |
   <br>
   
   <br>
