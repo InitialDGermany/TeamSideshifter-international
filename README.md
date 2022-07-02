@@ -1,16 +1,28 @@
-### Hi there 👋
+## Hello, We Are InitialDGermany 👋
 
-<!--
-**InitialDGermany/InitialDGermany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### We are gamer developer and much more 
 
-Here are some ideas to get you started:
+<p align="center">
+  Social network :<br>
+  <a href="SOON">Youtube</a> |
+  <a href="SOON">Discord</a> |
+  <br>
+  Discord :<br>
+  <img src="https://lanyard-profile-readme.vercel.app/api/414544260956946432">
+  <img src="https://lanyard-profile-readme.vercel.app/api/714791613980737537">
+  <br>
+  Github statistics :<br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nt-games-ytb&theme=dark&hide_border=true">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=nt-games-ytb&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nt-games-ytb&layout=compact&count_private=true&langs_count=12&hide_border=true&theme=dark">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---  
+
+<p align="center"> 
+  Compteur de visites :<br>
+  <img src="https://profile-counter.glitch.me/nt-games-ytb/count.svg" />
+</p>
+
